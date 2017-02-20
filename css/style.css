@@ -1,0 +1,125 @@
+.navbar-brand {padding:0px;}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    padding-top: 15px;
+}
+.nav-list li a{
+	
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #A8A8A8 !important;
+    font-weight: 700;
+
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #9CD6AB;
+    background-color: #fff;
+}
+.item{
+position:relative;
+}
+.text{
+	position:absolute;
+
+    
+    top: 50%;
+    left: 20%;
+    transform: translateY(-50%);
+}
+
+
+.text h2{
+	color:#9CD6AB;
+}
+.text h3{
+	color:#fff;
+	text-transform: uppercase;
+	font-size:30px;
+}
+.text p{
+	max-width:40%;
+	text-align:justify;
+	color:white;
+	text-transform:capitalize;
+	 font-size: 13px;
+
+}
+.btn-custom {
+    background: #42B061;
+    color: #fff;
+}
+.btn-custom:hover{
+	background: #fff;
+    color:#42B061;}
+    .about{
+    height:100vh;
+    }
+    .header{
+     margin-bottom:3em;
+    }
+    .header h2{
+   text-transform:uppercase;
+   font-size:30px;
+   color:#363636;
+    }
+    .header p{
+     max-width:40%;
+     margin:0 auto;
+     color:#B0B0B0;
+    }.text-about h2{
+        color: #42B061;
+font-size: 15px;
+font-weight: 700;
+margin: 0;
+text-align: justify;
+    }
+.text-about p {
+    color: #868181;
+    text-align: justify;
+    font-weight: 500;
+}
+.course{
+    height:100vh;
+    background:#height: 100vh;
+background: #E9E6E6;
+}
+.header1 h2{
+text-transform: uppercase;
+font-size: 30px;
+color: #363636;
+font-weight: 700;
+    }
+    .header1{
+        margin-bottom: 3em;
+    }
+    .header1 p{
+     max-width:40%;
+     margin:0 auto;
+     color:#B0B0B0;
+    }
+    .gallery i{
+font-size: 48px;
+display: inline-block;
+margin: 10px 140px;
+    }
+    .course-details{
+
+    }
+    .course-details h2 {
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #363636;
+    font-weight: 900;
+    text-align: center;
+}
+    .course-details p {
+    max-width: 60%;
+    margin: 0 auto;
+    color: #B0B0B0;
+    text-align: center;
+}
+.thumbnail{
+    padding-bottom: 31px;
+padding-top:10px;
+}
